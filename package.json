@@ -1,0 +1,12 @@
+{
+  "name": "recipe-app",
+  "version": "1.0.0",
+  "description": "A simple recipe viewer app with HTML, CSS, and JavaScript",
+  "scripts": {
+    "start": "live-server"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
+

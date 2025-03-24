@@ -1,0 +1,75 @@
+{
+  "recipes": [
+    {
+      "id": "recipe_001",
+      "title": "Classic Spaghetti Bolognese",
+      "description": "A hearty Italian pasta dish with rich meat sauce.",
+      "image": "assets/images/spaghetti.jpg",
+      "durationMinutes": 60,
+      "difficulty": "Medium",
+      "servings": 4,
+      "ingredients": [
+        "400g spaghetti",
+        "2 tbsp olive oil",
+        "1 onion, chopped",
+        "2 garlic cloves, minced",
+        "500g minced beef",
+        "400g canned tomatoes",
+        "2 tbsp tomato paste",
+        "Salt and pepper to taste",
+        "Fresh basil for garnish"
+      ],
+      "steps": [
+        {
+          "title": "Prepare Ingredients",
+          "instruction": "Chop the onion, mince the garlic, and prepare all other ingredients.",
+          "tips": [
+            "Use a sharp knife for easier chopping.",
+            "You can prepare everything in advance to save time later."
+          ],
+          "image": "https://www.recetasnestlecam.com/sites/default/files/styles/crop_article_banner_desktop_nes/public/2022-01/importancia-cocinar-en-casa_0.webp?itok=vsErviLk"
+        },
+        {
+          "title": "Cook the Onion and Garlic",
+          "instruction": "Heat olive oil in a pan, then add the onion and garlic. Sauté until translucent.",
+          "tips": [
+            "Do not let the garlic brown to avoid bitterness."
+          ],
+          "image": "https://www.claro.com.co/portal/co/recursos_contenido/1708550453592-1639596140445-Cocinar-en-casa-cuidate-y-ahorra.webp"
+        },
+        {
+          "title": "Add and Brown the Meat",
+          "instruction": "Add minced beef to the pan and cook until browned evenly.",
+          "tips": [
+            "Break the meat apart with a wooden spoon to avoid clumps."
+          ]
+        },
+        {
+          "title": "Add Tomatoes and Simmer",
+          "instruction": "Stir in canned tomatoes and tomato paste. Simmer for 30 minutes.",
+          "tips": [
+            "Add a pinch of sugar if the sauce tastes too acidic.",
+            "Cover partially to avoid splattering while simmering."
+          ]
+        },
+        {
+          "title": "Cook Spaghetti",
+          "instruction": "Boil spaghetti according to package instructions until al dente.",
+          "tips": [
+            "Salt your pasta water generously.",
+            "Do not rinse pasta after draining to help the sauce cling better."
+          ]
+        },
+        {
+          "title": "Combine and Serve",
+          "instruction": "Mix the sauce with the spaghetti and garnish with fresh basil.",
+          "tips": [
+            "Top with grated Parmesan for extra flavor.",
+            "Serve immediately while hot."
+          ],
+          "image": "https://c.stocksy.com/a/iik100/z9/417924.jpg"
+        }
+      ]
+    }
+  ]
+}
