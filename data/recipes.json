@@ -2,72 +2,110 @@
   "recipes": [
     {
       "id": "recipe_001",
-      "title": "Classic Spaghetti Bolognese",
-      "description": "A hearty Italian pasta dish with rich meat sauce.",
-      "image": "assets/images/spaghetti.jpg",
+      "title": "Espaguetis a la Boloñesa",
+      "description": "Un plato de pasta italiano contundente con una rica salsa de carne.",
+      "image": "https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg",
       "durationMinutes": 60,
-      "difficulty": "Medium",
+      "difficulty": "Media",
       "servings": 4,
       "ingredients": [
-        "400g spaghetti",
-        "2 tbsp olive oil",
-        "1 onion, chopped",
-        "2 garlic cloves, minced",
-        "500g minced beef",
-        "400g canned tomatoes",
-        "2 tbsp tomato paste",
-        "Salt and pepper to taste",
-        "Fresh basil for garnish"
+        "400g de espaguetis",
+        "2 cucharadas de aceite de oliva",
+        "1 cebolla, picada",
+        "2 dientes de ajo, picados",
+        "500g de carne picada de res",
+        "400g de tomates enlatados",
+        "2 cucharadas de pasta de tomate",
+        "Sal y pimienta al gusto",
+        "Albahaca fresca para decorar"
       ],
       "steps": [
         {
-          "title": "Prepare Ingredients",
-          "instruction": "Chop the onion, mince the garlic, and prepare all other ingredients.",
-          "tips": [
-            "Use a sharp knife for easier chopping.",
-            "You can prepare everything in advance to save time later."
-          ],
-          "image": "https://www.recetasnestlecam.com/sites/default/files/styles/crop_article_banner_desktop_nes/public/2022-01/importancia-cocinar-en-casa_0.webp?itok=vsErviLk"
+          "title": "Preparar los ingredientes",
+          "instruction": "Picar la cebolla, el ajo y preparar todos los ingredientes.",
+          "tips": ["Utiliza un cuchillo afilado para facilitar el picado."],
+          "image": "https://www.pequerecetas.com/wp-content/uploads/2009/06/cortar-verduras.jpg"
         },
         {
-          "title": "Cook the Onion and Garlic",
-          "instruction": "Heat olive oil in a pan, then add the onion and garlic. Sauté until translucent.",
-          "tips": [
-            "Do not let the garlic brown to avoid bitterness."
-          ],
-          "image": "https://www.claro.com.co/portal/co/recursos_contenido/1708550453592-1639596140445-Cocinar-en-casa-cuidate-y-ahorra.webp"
+          "title": "Cocinar la cebolla y el ajo",
+          "instruction": "Calienta el aceite de oliva en una sartén, añade la cebolla y el ajo, y sofríe hasta que estén translúcidos.",
+          "tips": ["Evita que el ajo se dore demasiado para que no amargue."],
+          "image": "https://blog.flota.es/wp-content/uploads/2015/07/cocinar-verduras-conserven-nutrientes-1200x900.jpg"
         },
         {
-          "title": "Add and Brown the Meat",
-          "instruction": "Add minced beef to the pan and cook until browned evenly.",
+          "title": "Agregar y dorar la carne",
+          "instruction": "Añade la carne picada y cocina hasta que se dore uniformemente.",
+          "tips": ["Desmenuza la carne con una cuchara de madera para evitar grumos."]
+        },
+        {
+          "title": "Añadir tomates y cocinar a fuego lento",
+          "instruction": "Incorpora los tomates enlatados y la pasta de tomate. Cocina a fuego lento durante 30 minutos.",
           "tips": [
-            "Break the meat apart with a wooden spoon to avoid clumps."
+            "Agrega una pizca de azúcar si la salsa está muy ácida.",
+            "Cubre parcialmente la sartén para evitar salpicaduras."
           ]
         },
         {
-          "title": "Add Tomatoes and Simmer",
-          "instruction": "Stir in canned tomatoes and tomato paste. Simmer for 30 minutes.",
+          "title": "Cocinar los espaguetis",
+          "instruction": "Hierve los espaguetis siguiendo las instrucciones del paquete hasta que estén al dente.",
           "tips": [
-            "Add a pinch of sugar if the sauce tastes too acidic.",
-            "Cover partially to avoid splattering while simmering."
+            "Agrega sal al agua de cocción generosamente.",
+            "No enjuagues la pasta después de escurrirla para que la salsa se adhiera mejor."
           ]
         },
         {
-          "title": "Cook Spaghetti",
-          "instruction": "Boil spaghetti according to package instructions until al dente.",
+          "title": "Servir",
+          "instruction": "Mezcla la salsa con los espaguetis y decora con albahaca fresca.",
           "tips": [
-            "Salt your pasta water generously.",
-            "Do not rinse pasta after draining to help the sauce cling better."
-          ]
-        },
-        {
-          "title": "Combine and Serve",
-          "instruction": "Mix the sauce with the spaghetti and garnish with fresh basil.",
-          "tips": [
-            "Top with grated Parmesan for extra flavor.",
-            "Serve immediately while hot."
+            "Añade queso parmesano rallado por encima para más sabor.",
+            "Sirve inmediatamente mientras esté caliente."
           ],
-          "image": "https://c.stocksy.com/a/iik100/z9/417924.jpg"
+          "image": "https://i.shgcdn.com/f4732c84-5a59-4337-b3fa-b865c279c4fd/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+        }
+      ]
+    },
+    {
+      "id": "recipe_002",
+      "title": "Tortilla Española",
+      "description": "Una tortilla clásica española hecha con huevos, papas y cebolla.",
+      "image": "https://mojo.generalmills.com/api/public/content/9xIHKwJDH0-1wbHPsVCCVQ_gmi_hi_res_jpeg.jpeg?v=2bfc22c6&t=16e3ce250f244648bef28c5949fb99ff",
+      "durationMinutes": 45,
+      "difficulty": "Fácil",
+      "servings": 4,
+      "ingredients": [
+        "6 huevos",
+        "500g de papas",
+        "1 cebolla grande",
+        "Aceite de oliva virgen extra",
+        "Sal al gusto"
+      ],
+      "steps": [
+        {
+          "title": "Preparar las papas y la cebolla",
+          "instruction": "Pelar y cortar las papas en rodajas finas. Cortar la cebolla en juliana.",
+          "tips": ["Usa una mandolina para cortar las papas de forma uniforme."],
+          "image": "https://www.lasrecetasdelaura.com/wp-content/uploads/2016/11/papas-al-horno-cuadrada-1.jpg"
+        },
+        {
+          "title": "Freír las papas y la cebolla",
+          "instruction": "En una sartén grande, calienta abundante aceite de oliva y fríe las papas y la cebolla a fuego medio hasta que estén blandas, no crujientes.",
+          "tips": ["Remueve ocasionalmente para que no se peguen."]
+        },
+        {
+          "title": "Escurrir y mezclar con los huevos",
+          "instruction": "Escurre las papas y la cebolla. Bate los huevos en un bol grande, añade las papas y la cebolla y mezcla bien con sal.",
+          "tips": ["Deja reposar la mezcla unos minutos para que los sabores se integren."]
+        },
+        {
+          "title": "Cocinar la tortilla",
+          "instruction": "Vierte la mezcla en una sartén antiadherente y cocina a fuego medio-bajo hasta que cuaje por abajo. Dale la vuelta con ayuda de un plato y cocina por el otro lado.",
+          "tips": ["Cubre con un plato llano para girar la tortilla con seguridad."],
+          "image": "https://cdn0.recetasgratis.net/es/posts/9/8/0/tortilla_espanola_tradicional_53089_paso_4_600.jpg"
+        },
+        {
+          "title": "Servir",
+          "instruction": "Deja reposar unos minutos y sirve caliente o a temperatura ambiente.",
+          "tips": ["Acompaña con pan crujiente o una ensalada verde."]
         }
       ]
     }
