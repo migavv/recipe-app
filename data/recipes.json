@@ -2,110 +2,78 @@
   "recipes": [
     {
       "id": "recipe_001",
-      "title": "Espaguetis a la Boloñesa",
-      "description": "Un plato de pasta italiano contundente con una rica salsa de carne.",
-      "image": "https://img.taste.com.au/sE-X5HqY/taste/2024/03/5-ingredient-turbo-charged-spaghetti-recipe-196959-1.jpg",
-      "durationMinutes": 60,
-      "difficulty": "Media",
-      "servings": 4,
+      "title": "Sándwich Clásico",
+      "description": "Un sándwich fácil y rápido con ingredientes básicos.",
+      "image": "https://recetasdecocina.elmundo.es/wp-content/uploads/2024/10/sandwich-club-1.jpg",
+      "durationMinutes": 10,
+      "difficulty": "Fácil",
+      "servings": 1,
       "ingredients": [
-        "400g de espaguetis",
-        "2 cucharadas de aceite de oliva",
-        "1 cebolla, picada",
-        "2 dientes de ajo, picados",
-        "500g de carne picada de res",
-        "400g de tomates enlatados",
-        "2 cucharadas de pasta de tomate",
-        "Sal y pimienta al gusto",
-        "Albahaca fresca para decorar"
+        "2 rebanadas de pan",
+        "2 lonchas de jamón",
+        "2 lonchas de queso",
+        "1 cucharada de mayonesa",
+        "1 hoja de lechuga",
+        "1 rodaja de tomate"
       ],
       "steps": [
         {
           "title": "Preparar los ingredientes",
-          "instruction": "Picar la cebolla, el ajo y preparar todos los ingredientes.",
-          "tips": ["Utiliza un cuchillo afilado para facilitar el picado."],
-          "image": "https://www.pequerecetas.com/wp-content/uploads/2009/06/cortar-verduras.jpg"
+          "instruction": "Lava la lechuga y el tomate. Prepara todos los ingredientes sobre una superficie limpia.",
+          "tips": ["Usa ingredientes frescos para mejor sabor."],
+          "image": "https://media.istockphoto.com/id/181184352/photo/ice-lettuce-and-tomato-wedges.jpg?s=612x612&w=0&k=20&c=PzAEZKzg6ZeQM-t3pCkgjuxZx3u9Mf0ksY7cTQ4JD9g="
         },
         {
-          "title": "Cocinar la cebolla y el ajo",
-          "instruction": "Calienta el aceite de oliva en una sartén, añade la cebolla y el ajo, y sofríe hasta que estén translúcidos.",
-          "tips": ["Evita que el ajo se dore demasiado para que no amargue."],
-          "image": "https://blog.flota.es/wp-content/uploads/2015/07/cocinar-verduras-conserven-nutrientes-1200x900.jpg"
-        },
-        {
-          "title": "Agregar y dorar la carne",
-          "instruction": "Añade la carne picada y cocina hasta que se dore uniformemente.",
-          "tips": ["Desmenuza la carne con una cuchara de madera para evitar grumos."]
-        },
-        {
-          "title": "Añadir tomates y cocinar a fuego lento",
-          "instruction": "Incorpora los tomates enlatados y la pasta de tomate. Cocina a fuego lento durante 30 minutos.",
-          "tips": [
-            "Agrega una pizca de azúcar si la salsa está muy ácida.",
-            "Cubre parcialmente la sartén para evitar salpicaduras."
-          ]
-        },
-        {
-          "title": "Cocinar los espaguetis",
-          "instruction": "Hierve los espaguetis siguiendo las instrucciones del paquete hasta que estén al dente.",
-          "tips": [
-            "Agrega sal al agua de cocción generosamente.",
-            "No enjuagues la pasta después de escurrirla para que la salsa se adhiera mejor."
-          ]
+          "title": "Montar el sándwich",
+          "instruction": "Unta mayonesa en una rebanada de pan. Coloca el jamón, el queso, la lechuga y el tomate. Cubre con la otra rebanada.",
+          "tips": ["Puedes tostar el pan si prefieres un sándwich más crujiente."]
         },
         {
           "title": "Servir",
-          "instruction": "Mezcla la salsa con los espaguetis y decora con albahaca fresca.",
-          "tips": [
-            "Añade queso parmesano rallado por encima para más sabor.",
-            "Sirve inmediatamente mientras esté caliente."
-          ],
-          "image": "https://i.shgcdn.com/f4732c84-5a59-4337-b3fa-b865c279c4fd/-/format/auto/-/preview/3000x3000/-/quality/lighter/"
+          "instruction": "Corta el sándwich por la mitad si lo deseas y sirve inmediatamente.",
+          "tips": ["Acompaña con papas fritas o una bebida fría."],
+          "image": "https://cdn.jwplayer.com/v2/media/7QqXPZoy/poster.jpg?width=720"
         }
       ]
     },
     {
       "id": "recipe_002",
-      "title": "Tortilla Española",
-      "description": "Una tortilla clásica española hecha con huevos, papas y cebolla.",
-      "image": "https://mojo.generalmills.com/api/public/content/9xIHKwJDH0-1wbHPsVCCVQ_gmi_hi_res_jpeg.jpeg?v=2bfc22c6&t=16e3ce250f244648bef28c5949fb99ff",
-      "durationMinutes": 45,
+      "title": "Panqueques Caseros",
+      "description": "Panqueques esponjosos ideales para el desayuno o merienda.",
+      "image": "https://www.marthastewart.com/thmb/Vgb9cQSlegZz5fcoSbkkqyHPmHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/338185-basic-pancakes-09-00b18f8418fd4e52bb2050173d083d04.jpg",
+      "durationMinutes": 25,
       "difficulty": "Fácil",
       "servings": 4,
       "ingredients": [
-        "6 huevos",
-        "500g de papas",
-        "1 cebolla grande",
-        "Aceite de oliva virgen extra",
-        "Sal al gusto"
+        "1 taza de harina",
+        "1 cucharada de azúcar",
+        "1 cucharadita de polvo de hornear",
+        "1/2 cucharadita de sal",
+        "1 taza de leche",
+        "1 huevo",
+        "2 cucharadas de mantequilla derretida"
       ],
       "steps": [
         {
-          "title": "Preparar las papas y la cebolla",
-          "instruction": "Pelar y cortar las papas en rodajas finas. Cortar la cebolla en juliana.",
-          "tips": ["Usa una mandolina para cortar las papas de forma uniforme."],
-          "image": "https://www.lasrecetasdelaura.com/wp-content/uploads/2016/11/papas-al-horno-cuadrada-1.jpg"
+          "title": "Mezclar los ingredientes secos",
+          "instruction": "En un bol grande, mezcla la harina, el azúcar, el polvo de hornear y la sal.",
+          "tips": ["Tamiza los ingredientes para evitar grumos."]
         },
         {
-          "title": "Freír las papas y la cebolla",
-          "instruction": "En una sartén grande, calienta abundante aceite de oliva y fríe las papas y la cebolla a fuego medio hasta que estén blandas, no crujientes.",
-          "tips": ["Remueve ocasionalmente para que no se peguen."]
+          "title": "Agregar ingredientes húmedos",
+          "instruction": "Agrega la leche, el huevo y la mantequilla derretida. Mezcla hasta obtener una masa homogénea.",
+          "tips": ["No mezcles en exceso para mantenerlos esponjosos."]
         },
         {
-          "title": "Escurrir y mezclar con los huevos",
-          "instruction": "Escurre las papas y la cebolla. Bate los huevos en un bol grande, añade las papas y la cebolla y mezcla bien con sal.",
-          "tips": ["Deja reposar la mezcla unos minutos para que los sabores se integren."]
-        },
-        {
-          "title": "Cocinar la tortilla",
-          "instruction": "Vierte la mezcla en una sartén antiadherente y cocina a fuego medio-bajo hasta que cuaje por abajo. Dale la vuelta con ayuda de un plato y cocina por el otro lado.",
-          "tips": ["Cubre con un plato llano para girar la tortilla con seguridad."],
-          "image": "https://cdn0.recetasgratis.net/es/posts/9/8/0/tortilla_espanola_tradicional_53089_paso_4_600.jpg"
+          "title": "Cocinar los panqueques",
+          "instruction": "Calienta una sartén antiadherente y vierte un poco de masa. Cocina hasta que salgan burbujas, luego voltea y cocina el otro lado.",
+          "tips": ["Usa fuego medio para evitar que se quemen."],
+          "image": "https://cdn.apartmenttherapy.info/image/upload/v1622221223/k/Photo/Series/2021-05-skills-showdown-cook-a-pancake/Reshoot/2021-05-26_ATK2535.jpg"
         },
         {
           "title": "Servir",
-          "instruction": "Deja reposar unos minutos y sirve caliente o a temperatura ambiente.",
-          "tips": ["Acompaña con pan crujiente o una ensalada verde."]
+          "instruction": "Sirve calientes con miel, frutas, mantequilla o lo que prefieras.",
+          "tips": ["Puedes apilarlos y decorar con fresas o plátano."]
         }
       ]
     }
