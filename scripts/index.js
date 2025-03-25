@@ -12,10 +12,10 @@ function renderRecipeList(recipes) {
       ${recipe.image ? `<img src="${recipe.image}" alt="${recipe.title}" class="recipe-img"/>` : ''}
       <h2>${recipe.title}</h2>
       <p>${recipe.description}</p>
-      <p><strong>Duration:</strong> ${recipe.durationMinutes} min</p>
-      <p><strong>Difficulty:</strong> ${recipe.difficulty}</p>
-      <p><strong>Servings:</strong> ${recipe.servings}</p>
-      <a href="recipe.html?id=${recipe.id}">View Recipe</a>
+      <p><strong>Duración:</strong> ${recipe.durationMinutes} min</p>
+      <p><strong>Dificultad:</strong> ${recipe.difficulty}</p>
+      <p><strong>Porciones:</strong> ${recipe.servings}</p>
+      <a href="recipe.html?id=${recipe.id}">Ver receta</a>
     `;
 
     container.appendChild(card);

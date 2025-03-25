@@ -14,13 +14,13 @@ function renderRecipe(recipe) {
   container.innerHTML = `
     ${recipe.image ? `<img src="${recipe.image}" alt="${recipe.title}" class="recipe-img"/>` : ''}
     <h2>${recipe.title}</h2>
-    <p><strong>Description:</strong> ${recipe.description}</p>
-    <p><strong>Duration:</strong> ${recipe.durationMinutes} min</p>
-    <p><strong>Difficulty:</strong> ${recipe.difficulty}</p>
-    <p><strong>Servings:</strong> ${recipe.servings}</p>
-    <h3>Ingredients:</h3>
+    <p><strong>Descripción:</strong> ${recipe.description}</p>
+    <p><strong>Duración:</strong> ${recipe.durationMinutes} min</p>
+    <p><strong>Dificultad:</strong> ${recipe.difficulty}</p>
+    <p><strong>Porciones:</strong> ${recipe.servings}</p>
+    <h3>Ingredientes:</h3>
     <ul>${recipe.ingredients.map(i => `<li>${i}</li>`).join('')}</ul>
-    <h3>Steps:</h3>
+    <h3>Pasos:</h3>
     ${recipe.steps.map(step => `
       <div class="step">
         <h4>${step.title}</h4>
